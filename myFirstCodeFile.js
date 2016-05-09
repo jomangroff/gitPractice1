@@ -6,9 +6,9 @@ journal.push(dm11);
 
 var thanks = [];
 
-thanks.push(dm11);
+journal.push(thanks);
 
 var noice = [];
 
-noice.push(dm11);
+journal.push(noice);
 
