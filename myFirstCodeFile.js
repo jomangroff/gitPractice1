@@ -4,11 +4,10 @@ var journal = [];
 
 journal.push(dm11);
 
-var thanks = [];
+var thanks = "thanks my man"
 
 journal.push(thanks);
 
-var noice = [];
+var noice = "perfect"
 
 journal.push(noice);
-
