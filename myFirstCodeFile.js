@@ -11,3 +11,7 @@ journal.push(thanks);
 var noice = "perfect"
 
 journal.push(noice);
+
+var llama = "Kuzco"
+
+journal.push(llama);
